@@ -1,13 +1,13 @@
 .btn1{
 background-color: yellow;
-    color: whitesmoke;
+    color: black;
     border: none;
     border-radius: 5px;
     justify-content: center;
     display: flex;
     align-items: center;
     padding: 7px;
-    top: -9px;
+    top: -18px;
     position: relative;
     font-size: 23px;
     cursor: pointer
@@ -20,7 +20,7 @@ background-color: darkred;
 
 .btn2{
 background-color: olive;
-    color: whitesmoke;
+    color: black;
     border: none;
     border-radius: 5px;
     display: flex;
