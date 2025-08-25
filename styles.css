@@ -63,7 +63,7 @@ align-items: center;
 .box{
   width: 84px;
   height: 84px;
-  background: black;
+  background: yellow;
   border: 2px solid rgb(32, 31, 31);
   border-radius: 12px;
   display: none; 
