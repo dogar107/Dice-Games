@@ -1,5 +1,5 @@
 .btn1{
-background-color: gray;
+background-color: green;
     color: whitesmoke;
     border: none;
     border-radius: 5px;
@@ -19,7 +19,7 @@ background-color: darkred;
 }
 
 .btn2{
-background-color: gray;
+background-color: olive;
     color: whitesmoke;
     border: none;
     border-radius: 5px;
