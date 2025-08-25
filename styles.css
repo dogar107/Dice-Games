@@ -133,7 +133,7 @@ align-items: center;
     display: flex;
     align-items: center;
     color:whitesmoke;
-    background-color: gray;
+    background-color: red;
 }
 
 #box1{
@@ -195,7 +195,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 color:whitesmoke;
-background-color: gray;
+background-color: green;
 }
 
 #dice0{
@@ -321,7 +321,7 @@ position: relative;
   visibility: hidden; 
   min-width: 250px; 
   margin-left: -125px; 
-  background-color: #333; 
+  background-color: red; 
   color: #fff; 
   text-align: center; 
   border-radius: 2px;
@@ -364,8 +364,8 @@ position: relative;
 
   width: 84px;
   height: 84px;
-  background: black;
-  border: 2px solid darkgray;
+  background: yellow;
+  border: 2px solid darkred;
   border-radius: 12px;
   display: none; 
   position: relative;
@@ -379,8 +379,8 @@ position: relative;
 
   width: 84px;
   height: 84px;
-  background: black;
-  border: 2px solid darkgray;
+  background: rebeccapurple; 
+  border: 2px solid black;
   border-radius: 12px;
   display: none; 
   position: relative;
@@ -400,7 +400,7 @@ border-radius: 5px;
 #customAlert {
 display: none;
 top: 8%;
-background: green;
+background: orange;
 padding: 20px;
 text-align: center;
 width: 43%;
@@ -569,7 +569,7 @@ background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: gray;
+    background-color: olive;
 }
 
 
