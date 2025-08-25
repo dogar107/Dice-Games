@@ -66,7 +66,6 @@ align-items: center;
   background: black;
   border: 2px solid rgb(32, 31, 31);
   border-radius: 12px;
-  display: none; 
   position: relative;
   cursor: pointer;
   transition: transform 0.5s;
